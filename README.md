@@ -22,3 +22,6 @@ Support_count(X) : Number of transactions in which X appears. If X is A union B 
 Maximal Itemset: An itemset is maximal frequent if none of its supersets are frequent.
 Closed Itemset:An itemset is closed if none of its immediate supersets have same support count same as Itemset.
 K- Itemset:Itemset which contains K items is a K-itemset. So it can be said that an itemset is frequent if the corresponding support count is greater than minimum support count.
+
+Here are a few data visualizations from the project:
+
