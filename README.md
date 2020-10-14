@@ -25,3 +25,5 @@ K- Itemset:Itemset which contains K items is a K-itemset. So it can be said that
 
 Here are a few data visualizations from the project:
 
+![EDA](https://raw.githubusercontent.com/LilianYou/Food_Categorization/images/fig1.png)
+
