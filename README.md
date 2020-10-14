@@ -36,12 +36,12 @@ Here is another direct visualization of the food frequency. As you can see here,
 ![parallel visualize plot](https://raw.githubusercontent.com/LilianYou/Food_Categorization/images/fig3.png)
 Based on the EDA figure, I did an association rule mining. As you can see, here is a parallel visualize plot displaying the connection between each pair of ingredients from the recipe datasets. High frequency ingredients has higher possibility to connect with all other ingredients, especially other high frequency ingredients.
 
-![parallel visualize plot](https://raw.githubusercontent.com/LilianYou/Food_Categorization/images/fig4.png)
+![parallel visualize plot](https://raw.githubusercontent.com/LilianYou/Food_Categorization/images/Fig4.png)
 If you zoom in the plot, you can tell that, for example, garlic has the highest frequency co-occur with oil, and then onion, pepper, cilantro, soy sauce, and butter.
 
-![parallel visualize plot](https://raw.githubusercontent.com/LilianYou/Food_Categorization/images/fig5.png)
+![parallel visualize plot](https://raw.githubusercontent.com/LilianYou/Food_Categorization/images/Fig5.png)
 I also did a network graph of the relationship of all ingredients in the recipe dataset. We found a concentric layout of the graph, meaning ingredients within the same frequency categorization have corresponding level of possibility connecting with each other.
 
-![parallel visualize plot](https://raw.githubusercontent.com/LilianYou/Food_Categorization/images/fig6.png)
+![parallel visualize plot](https://raw.githubusercontent.com/LilianYou/Food_Categorization/images/Fig6.png)
 When we take a look at the association rules strength distribution, we can see that the likelihood of two ingredients co-occur in a recipe increases with the popularity of ingredients and then correlation maintains even when controlling for the independent popularity of one of the ingredients in a pair.
 
