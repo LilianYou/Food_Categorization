@@ -1,5 +1,5 @@
 # Food_categorization
-This is information collection for a challenge in the [2020 WaiDATATHON](https://www.womeninai.co/waidatathon).
+This is information collection for a challenge in the [2020 WaiDATATHON](https://www.womeninai.co/waidatathon) .
 
 I used the [recipe ingredients dataset] (https://www.kaggle.com/kaggle/recipe-ingredients-dataset) from Kaggle.com. The goal for the project is to discover the probability of the co-occurrence of ingredients in a recipe. I used python jupyter notebooks to run [apriori algorithms](https://medium.com/@kaumadiechamalka100/apriori-algorithm-f7fb30793274) on [Amazon Web Services](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc). Overall, the unsupervised learning algorithm I developed here will be further matched with our nutrients dataset to tailorize healthier food recommendation with more popular recipes.
 
